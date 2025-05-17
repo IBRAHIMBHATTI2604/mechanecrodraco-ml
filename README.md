@@ -52,4 +52,17 @@ A futuristic financial machine learning application built using *Streamlit*, com
 
 ```bash
 git clone https://github.com/laiqeman/MechaNecroDraco-ML.git
-cd MechaNecroDraco-ML
+cd MechaNecroDraco-ML### Run the application
+
+```bash
+streamlit run main.py## 🌐 Live Demo
+
+🔗 [MechaNecroDraco ML Web App (Deployed on Streamlit)](https://your-streamlit-app-link-here)
+
+---
+
+## 🔗 GitHub Repository
+
+[https://github.com/laiqeman/MechaNecroDraco-ML](https://github.com/laiqeman/MechaNecroDraco-ML)
+
+---
